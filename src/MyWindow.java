@@ -7,7 +7,7 @@ class MyWindow extends JFrame
 
     JButton btn = new JButton("Click Me");
     JButton tickBtn = new JButton(tick);
-    JButton crossBtn = new JButton("STOP", cross);
+    JButton crossBtn = new JButton("STOP!!!", cross);
 
     JPanel pnl = new JPanel();
     public MyWindow(){
